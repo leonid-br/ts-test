@@ -1,3 +1,5 @@
+import './generics';
+
 function App() {
     // ====================================
     //типы примитивов number, string, boolean, null и undefined, any и object
